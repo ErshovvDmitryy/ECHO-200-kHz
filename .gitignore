@@ -1,0 +1,22 @@
+# Altium Designer
+# Временные папки
+**/__Previews/
+**/__TemporarilyExpandedFiles/
+
+# История и логи
+**/History/*
+Project Logs*/
+Project Outputs*/
+
+# Файлы автосохранения и бэкапы
+*.~*
+*.SchDoc.Recovery
+*.PcbDoc.Recovery
+*.PrjPcb.Recovery
+*.AsmDoc.Recovery
+
+# Файлы блокировки базы данных
+**/*.ldb
+
+# Автоконвертация
+*.PcbDoc.htm

@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=01_MCU_ESP32C6.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_MCU_ESP32C6.SchDoc|FileName=02_ULTRASONIC_PGA460.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_MCU_ESP32C6.SchDoc|FileName=03_DCDC_BOOST.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_MCU_ESP32C6.SchDoc|FileName=04_DCDC_3V3.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_MCU_ESP32C6.SchDoc|FileName=05_BATTERY.SchDoc|SheetNumber=5

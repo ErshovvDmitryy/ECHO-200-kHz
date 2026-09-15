@@ -1,0 +1,3 @@
+[submodule "AltiumDesigner/EchoProject/AltiumLibrary"]
+	path = AltiumDesigner/EchoProject/AltiumLibrary
+	url = https://github.com/YuryKoshkarov/AltiumLibrary.git
